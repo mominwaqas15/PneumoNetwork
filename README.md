@@ -34,7 +34,7 @@ PneumoNet is a pioneering deep learning project focused on harnessing the potent
 
 ## Research Paper
 
-I have attached a comprehensive research paper titled "PneumoNet: Deep Learning for Pneumonia Detection in Chest X-rays" in this repository. This paper delves deep into the challenges faced, methodologies employed to tackle these challenges, and presents detailed results of our model. You can access the paper [here](research_paper.pdf).
+I have attached a comprehensive research paper titled "PneumoNet: Deep Learning for Pneumonia Detection in Chest X-rays" in this repository. This paper delves deep into the challenges faced, methodologies employed to tackle these challenges, and presents detailed results of our model. You can access the paper [here](Research_paper.pdf).
 
 ## License
 
