@@ -2,17 +2,18 @@
 
 <img src="logo.png" alt="PneumoNet Logo" width="500">
 
-
-PneumoNet is a pioneering deep learning project focused on harnessing the potential of neural networks for accurate and early pneumonia detection using chest X-ray images. By leveraging state-of-the-art machine learning techniques, our model analyzes medical images to distinguish between normal cases and those affected by pneumonia, contributing to enhanced patient outcomes and improved healthcare.
+PneumoNet is a pioneering deep learning project focused on harnessing the potential of neural networks for accurate and early pneumonia detection using chest X-ray images. By leveraging state-of-the-art machine learning techniques, my model analyzes medical images to distinguish between normal cases and those affected by pneumonia, contributing to enhanced patient outcomes and improved healthcare.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
+- [Library Requirements](#library-requirements)
 - [Usage](#usage)
 - [Research Paper](#research-paper)
 - [License](#license)
 - [Contact](#contact)
+
 
 ## Features
 
@@ -26,6 +27,12 @@ PneumoNet is a pioneering deep learning project focused on harnessing the potent
 2. Navigate to the project directory: `cd PneumoNet`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
+## Library Requirements
+
+To ensure you have the necessary libraries and dependencies installed, you can use the provided `requirements.txt` file. Open a terminal and navigate to the project directory. Then, run the following command to install the required packages:
+
+`pip install -r requirements.txt`
+
 ## Usage
 
 1. Obtain chest X-ray images for analysis.
@@ -34,7 +41,7 @@ PneumoNet is a pioneering deep learning project focused on harnessing the potent
 
 ## Research Paper
 
-I have attached a comprehensive research paper titled "PneumoNet: Deep Learning for Pneumonia Detection in Chest X-rays" in this repository. This paper delves deep into the challenges faced, methodologies employed to tackle these challenges, and presents detailed results of our model. You can access the paper [here](Research_Paper.pdf).
+We have attached a comprehensive research paper titled "PneumoNet: Deep Learning for Pneumonia Detection in Chest X-rays" in this repository. This paper delves deep into the challenges faced, methodologies employed to tackle these challenges, and presents detailed results of our model. You can access the paper [here](Research_Paper.pdf).
 
 ## License
 
@@ -43,3 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or collaboration opportunities, please reach out to [Momin Waqas](https://github.com/mominwaqas15).
+
