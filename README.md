@@ -1,6 +1,6 @@
-# PneumoNet: Deep Learning for Pneumonia Detection in Chest X-rays
+# PneumoNetwork: Deep Learning for Pneumonia Detection in Chest X-rays
 
-<img src="logo.png" alt="PneumoNet Logo" width="500">
+<img src="logo.png" alt="PneumoNetwork Logo" width="500">
 
 PneumoNet is a pioneering deep learning project focused on harnessing the potential of neural networks for accurate and early pneumonia detection using chest X-ray images. By leveraging state-of-the-art machine learning techniques, my model analyzes medical images to distinguish between normal cases and those affected by pneumonia, contributing to enhanced patient outcomes and improved healthcare.
 
@@ -23,8 +23,8 @@ PneumoNet is a pioneering deep learning project focused on harnessing the potent
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/mominwaqas15/PneumoNet.git`
-2. Navigate to the project directory: `cd PneumoNet`
+1. Clone this repository: `git clone https://github.com/mominwaqas15/PneumoNetwork.git`
+2. Navigate to the project directory: `cd PneumoNetwork`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Library Requirements
@@ -36,12 +36,12 @@ To ensure you have the necessary libraries and dependencies installed, you can u
 ## Usage
 
 1. Obtain chest X-ray images for analysis.
-2. Run the PneumoNet model on your images.
+2. Run the PneumoNetwork model on your images.
 3. Receive accurate and timely pneumonia detection results.
 
 ## Research Paper
 
-We have attached a comprehensive research paper titled "PneumoNet: Deep Learning for Pneumonia Detection in Chest X-rays" in this repository. This paper delves deep into the challenges faced, methodologies employed to tackle these challenges, and presents detailed results of our model. You can access the paper [here](Research_Paper.pdf).
+We have attached a comprehensive research paper titled "PneumoNetwork: Deep Learning for Pneumonia Detection in Chest X-rays" in this repository. This paper delves deep into the challenges faced, methodologies employed to tackle these challenges, and presents detailed results of our model. You can access the paper [here](Research_Paper.pdf).
 
 ## License
 
